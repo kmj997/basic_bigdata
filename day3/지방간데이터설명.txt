@@ -1,0 +1,19 @@
+지방간 데이터 설명
+
+FAT1: 0=정상, 1=지방간
+AGE: 연령
+GENDER: 1=남, 2=여
+DRINK: 1=금주, 2=가끔, 3=자주
+SMOKING: 1=금연, 2=과거흡연, 3=흡연
+SYSBP: 수축기혈압
+DIABP: 이완기혈압
+BMI: 체질량지수
+HB: 혈색소
+GOT: 간기능검사수치 (glutamic oxaloacetic transaminase)
+GPT: 간기능검사 수치 (glutamic pyruvic transaminase)
+TCHOL: 콜레스테롤 수치
+GLUCOSE: 당뇨검사 수치
+TG: 중성지방 수치
+HDLC: HDL 콜레스테롤 수치
+LDLC: LDL 콜레스테롤 수치
+ALB: 알부민 수치
